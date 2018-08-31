@@ -1,5 +1,5 @@
 
-#include <tiagomatch/flanntest.h>
+#include <tiagomatch/Flann.h>
 
 int main(int argc, char** argv)
 {
